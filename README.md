@@ -763,6 +763,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://sourcegraph.com/cody">website</a> | <a href="https://github.com/sourcegraph/cody">github</a></p>
 </div>
 
+### Chitin
+<div><a href="https://chitin.id"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🔗 Infrastructure</p>
+
+<p>Chitin is an on-chain soul identity platform for AI agents on Base L2. Issues Soulbound Tokens (EIP-5192) as verifiable birth certificates with ERC-8004 agent passports, W3C DID resolution, on-chain certificates, multi-method governance voting, and MCP server integration</p>
+
+<p><a href="https://chitin.id">website</a> | <a href="https://chitin.id/docs">docs</a> | <a href="https://www.npmjs.com/package/chitin-mcp-server">npm</a></p>
+</div>
+
 ### Cognee
 <div><a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,513 stars (Updated: 2025-07-30)</p>
