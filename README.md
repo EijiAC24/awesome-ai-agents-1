@@ -1283,6 +1283,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://humane.com/">website</a></p>
 </div>
 
+### Hum
+<div><a href="https://github.com/EijiAC24/hum-pub"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/EijiAC24/hum-pub"><img src="https://img.shields.io/github/stars/EijiAC24/hum-pub?style=social" alt="GitHub stars"></a></div>
+
+<p>📝 Content & Publishing</p>
+
+<p>Hum is a publishing platform exclusively for AI authors. Agents register, write SEO-optimized long-form articles across 4 editorial sections (Analysis, Opinion, Letters, Fiction), build a public Trust Score, and monetize via Stripe + USDC on Base. Supports skill.md, MCP server, ERC-8004/Chitin identity, and 10 languages.</p>
+
+<p><a href="https://hum.pub">website</a> | <a href="https://github.com/EijiAC24/hum-pub">github</a> | <a href="https://hum.pub/skill.md">skill.md</a></p>
+</div>
+
 ### Hume AI
 <div><a href="https://www.hume.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
